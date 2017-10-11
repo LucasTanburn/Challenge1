@@ -7,7 +7,7 @@ The output showed the original line, then a line of seperator characters, then t
 The seperator character was '-' by default but could be changed using the optional -d flag.
 Below is the output of two example files.
 
-Example file 1:\n
+Example file 1:  
 Invocation:
 ```
 ./Challenge1 Ch1Example1.txt
@@ -24,7 +24,7 @@ Output_text
 -----------
 Output_text
 ```
-Example File 2:
+Example File 2:  
 Invocation:
 ```
 ./Challenge1 Ch1Example2.txt -d ^
