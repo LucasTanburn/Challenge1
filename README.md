@@ -9,11 +9,11 @@ Below is the output of two example files.
 
 Example file 1:
 Invocation:
-
+```
 ./Challenge1 Ch1Example1.txt
-
+```
 Output:
-
+```
 Input text "Processed text"
 ---------------------------
 Input
@@ -23,15 +23,15 @@ Processed text
 Output_text
 -----------
 Output_text
-
-
+```
 Example File 2:
 Invocation:
-
+```
 ./Challenge1 Ch1Example2.txt -d ^
-
+```
 Output:
-
+```
 foobar
 ^^^^^^
 foobar
+```
